@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scwoodward
-- 👀 I’m interested in C#, React & SQL
-- 🌱 I’m currently learning React
+- 👀 I’m interested in C#, React JS, React Native & SQL
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on C# & React
 - 📫 How to reach me 
 
